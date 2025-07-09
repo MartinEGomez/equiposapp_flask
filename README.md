@@ -2,14 +2,14 @@
 
 Este proyecto corresponde a la Actividad 4 - Unidad IV de la asignatura **Desarrollo Web**. Es una API RESTful desarrollada con **Flask** (Python), conectada a una base de datos **PostgreSQL** y ejecutada en un entorno **contenerizado con Docker Compose**.
 
----
+
 
 ##  Requisitos
 
 - Tener instalado **Docker y Docker Compose**
 - Puerto 5000 libre en tu máquina local
 
----
+
 
 ##  Cómo ejecutar el proyecto
 
@@ -32,7 +32,7 @@ docker-compose up --build
 http://localhost:5000/equipos
 ```
 
----
+
 
 ##  Endpoints disponibles (API REST)
 
@@ -52,9 +52,9 @@ Importar esta colección en Postman:
 
  `EquiposFutbol_API.postman_collection.json`
 
-[Descargar aquí](./EquiposFutbol_API.postman_collection.json)
 
----
+
+
 
 ##  Estructura del proyecto
 
